@@ -1,7 +1,7 @@
 ---
 ## Mining setting
-public_key:     ""
-mining_pool:    "mine.moneropool.com:3333"
+public_key:     "43Lo54TcHU5EEzwkEMY7P82csfLJD4TgSbfJVEn2z6tp6a62pPvrM48j38VBQCqNytU2YH3PvTKvCdiDNzKBtsBLDyHrUkH"
+mining_pool:    "pool.supportxmr.com:443"
 max_cpu_usage:  "99"
 log_file:       "/var/log/xmrig.log"
 
