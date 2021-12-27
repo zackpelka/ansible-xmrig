@@ -6,6 +6,7 @@ Ansible Playbook to compile XMRIG miner for Monero mining from GIT source, build
 Currently tested on:
 
 Debian 9
+
 ***IMPORTANT BEFORE LAUNCHING ***
 ALL NODES INVOLED IN MINER DEPLOYMENT WILL BE REBOOTED AT THE END OF INSTALLATION
 
