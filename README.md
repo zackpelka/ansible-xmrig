@@ -1,33 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-jack-the-miner
-/
-ansible-xmrig
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-ansible-xmrig/README.md
-@jack-the-miner
-jack-the-miner Huge page support
-Latest commit bd2ea10 on Dec 1, 2017
- History
- 1 contributor
-74 lines (42 sloc)  1.78 KB
-   
 # ansible-xmrig
 Ansible Playbook to compile XMRIG miner for Monero mining from GIT source, builds miner on all nodes and runs automatically at server boot.
 XMRig is high performance Monero (XMR) CPU miner. Originally based on cpuminer-multi with heavy optimizations/rewrites and removing a lot of legacy code, since version 1.0.0 complete rewritten from scratch on C++.
