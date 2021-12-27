@@ -52,7 +52,7 @@ apt-get install ansible
 ### 4 - Run
 
 ```
-ansible-playbook -i hosts install.yml
+ansible-playbook -i hosts install.yml -K
 ```
 
 ### 5 - Enjoy mining!
